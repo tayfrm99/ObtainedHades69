@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![alt text]([http://url/to/img.png](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png))
 <!--
 **ObtainedHades69/ObtainedHades69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
