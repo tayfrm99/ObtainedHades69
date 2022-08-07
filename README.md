@@ -1,8 +1,4 @@
-### Hi there 
-<p align="center">
-  <img src="[your_relative_path_here](https://github.com/ObtainedHades69/ObtainedHades69/blob/main/waving-hand_1f44b.png?raw=true)" width="100" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+### Hi there 👋
 <!--
 **ObtainedHades69/ObtainedHades69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
