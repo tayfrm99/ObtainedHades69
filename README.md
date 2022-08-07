@@ -1,5 +1,4 @@
-### Hi there 👋 
-❮img src="images/you-picture.png" width="100" ❯
+### Hi there 👋 ![alt text](https://github.com/ObtainedHades69/ObtainedHades69/blob/main/waving-hand_1f44b.png?raw=true?width=100)
 <!--
 **ObtainedHades69/ObtainedHades69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
